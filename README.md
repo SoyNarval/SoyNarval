@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SoyNarval
+- 👋 Hi, I’m Ignacio Pelayo
 - 👀 I’m interested in ... Full-Stack Development, JiuJitsu, Videogames and Recreativo de Huelva
 - 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ...
